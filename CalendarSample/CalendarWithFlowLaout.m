@@ -10,16 +10,5 @@
 
 @implementation CalendarWithFlowLaout
 
-//- (void)prepareLayout
-//{
-//
-//}
-
-//- (nullable NSArray<__kindof UICollectionViewLayoutAttributes *> *)layoutAttributesForElementsInRect:(CGRect)rect
-
-//- (BOOL)shouldInvalidateLayoutForBoundsChange:(CGRect)newBounds
-//{
-//    return YES;
-//}
 
 @end
