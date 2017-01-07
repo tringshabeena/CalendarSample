@@ -48,6 +48,8 @@
         cell = dateCell;
    
     }
+    //added NSLog to notify the creation of cell 
+    NSLog(@"New cell created");
     return cell;
 }
 
